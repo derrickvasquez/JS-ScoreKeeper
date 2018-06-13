@@ -1,0 +1,17 @@
+body{
+    background: #db2748;
+    text-align: center;
+    margin-top: 70px;
+}
+
+h1{
+    color: navajowhite;
+}
+
+p{
+    color:navajowhite;
+}
+
+.winner {
+    color:yellow;
+}
